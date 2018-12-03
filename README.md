@@ -3,7 +3,7 @@ Shape recognization on python using openCV library.Based on: [pyimagesearch](htt
 
 Install python 3.7.1 latest version,
 
-Install OpenCV library 3.4.1,
+Install OpenCV library 3.4.1,[Link](https://pypi.org/project/opencv-python/).
 
 Create new file on python IDLE,
 
