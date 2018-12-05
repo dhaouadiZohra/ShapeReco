@@ -9,7 +9,7 @@ Create new file on python IDLE,
 
 Get the code and an mp4  video version!
 
-Install all the missing necessary packages just like numpy and cv2.
+[Install](https://docs.opencv.org/2.4/doc/tutorials/introduction/linux_install/linux_install.html) all the missing necessary packages just like numpy and cv2.
 
 You can follow this instruction guide [PDF](https://media.readthedocs.org/pdf/opencv-python-tutroals/latest/opencv-python-tutroals.pdf) for any used OS.
 
