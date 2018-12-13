@@ -16,6 +16,8 @@ Get the code and an mp4  video version!
 
 [Install](https://docs.opencv.org/2.4/doc/tutorials/introduction/linux_install/linux_install.html) all the missing necessary packages just like numpy and cv2.
 
+[OpenCV center of contour](https://www.pyimagesearch.com/2016/02/01/opencv-center-of-contour/)
+
 You can follow this instruction guide [PDF](https://media.readthedocs.org/pdf/opencv-python-tutroals/latest/opencv-python-tutroals.pdf) for any used OS.
 
 # Result test:
