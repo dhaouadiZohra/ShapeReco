@@ -1,6 +1,10 @@
 # ShapeReco
 Shape recognization on python using openCV library.Based on: [pyimagesearch](https://www.pyimagesearch.com/2016/02/08/opencv-shape-detection/)
 
+# Canny edge algorithm
+
+[Canny edge algorithm](https://en.wikipedia.org/wiki/Canny_edge_detector)
+
 # Ramer-Douglas-Peucker algorithm || The split-and-merge algorithm
 
 We used this [algorithm](https://en.wikipedia.org/wiki/Ramer%E2%80%93Douglas%E2%80%93Peucker_algorithm) for contour approximation and reducing the number of points in a curve.
